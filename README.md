@@ -7,5 +7,3 @@
 - I also made through a Berlin42 piscine
 - finished and passed SPICED Academy intensive FullStack WebDev bootcamp
 
-https://github.com/zusko33/zusko33/assets/122281276/4af679f7-77c3-4434-af31-3efc0ed4e062
-
